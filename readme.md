@@ -2,9 +2,9 @@
 
 Nesse desafio, o meu principal objetivo é manipulação do estado no React.
 
-[x] Adicionar uma nova tarefa
-[x] Remover uma tarefa
-[x] Marcar e desmarcar uma tarefa como concluída
+- Adicionar uma nova tarefa
+- Remover uma tarefa
+- Marcar e desmarcar uma tarefa como concluída
 
 ## O que foi editar na aplicação?
 
