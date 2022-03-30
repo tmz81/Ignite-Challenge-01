@@ -1,14 +1,14 @@
 # 💻 Sobre o desafio
 
-Nesse desafio, o meu principal objetivo é manipulação do estado no React.
+Nesse desafio, o meu principal objetivo foi a manipulação do estado no React.
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
-## O que foi editar na aplicação?
+## O que foi editado na aplicação?
 
-Nesse desafio, foi editado apenas o seguinte arquivo `TaskList.tsx` para completar as funcionalidades da aplicação. Esse é o componente responsável por todas as funcionalidades da aplicação, é um componente simples, mas onde foi colocado em prática várias partes da manipulação do estado.
+Nesse desafio, foi editado apenas o seguinte arquivo `TaskList.tsx` para completar as funcionalidades da aplicação. Esse é o componente responsável por todas as funcionalidades da aplicação, é um componente simples, onde foi colocado em prática várias partes da manipulação do estado.
 
 # 🏃 Rodando a aplicação
 
